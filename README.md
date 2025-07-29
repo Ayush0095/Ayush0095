@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Android Devlopment
+- 🌱 I’m currently learning Web Devlopment
 
 <!---
 Ayush0095/Ayush0095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
