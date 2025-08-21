@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-🔭 I’m currently working on Dev-Tinder<br><br>🌱 I’m currently learning React, Node js and JavaScript<br>
+🔭 I’m currently working on Backrite<br><br>🌱 I’m currently learning Docker<br>
 
-<br>👨‍💻 All of my projects are available at [https://github.com/Ayush0095](https://github.com/Ayush0095)<br><br>📝 I regularly solving problems on [https://leetcode.com/u/aayushsingh7668/](https://leetcode.com/u/aayushsingh7668/)<br><br>💬 Ask me about Javascript, React and C++<br><br>📫 How to reach me vanshsinghal101@gmail.com<br><br>📄 Know about my experiences [https://www.linkedin.com/in/ayush-s-149a74310/](https://www.linkedin.com/in/ayush-s-149a74310/)
+<br>👨‍💻 All of my projects are available at [https://github.com/Ayush0095](https://github.com/Ayush0095)<br><br>📝 I regularly solving problems on [https://leetcode.com/u/aayushsingh7668/](https://leetcode.com/u/aayushsingh7668/)<br><br>💬 Ask me about Javascript, React and Java<br><br>📫 How to reach me aayushsingh7668@gmail.com<br><br>📄 Know about my experiences [https://www.linkedin.com/in/ayush-s-149a74310/](https://www.linkedin.com/in/ayush-s-149a74310/)
 
 - ⚡ I Talk in </>
 
@@ -36,13 +36,13 @@
 
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush0095&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush0095" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush0095&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush0095" alt="Ayush0095" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush0095" alt="Ayush" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush0095&show_icons=true&locale=en&layout=compact" alt="Ayush0095" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush0095&show_icons=true&locale=en&layout=compact" alt="Ayush" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush0095&show_icons=true&locale=en" alt="Ayush0095" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush0095&show_icons=true&locale=en" alt="Ayush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush0095&" alt="Ayush0095" /></p>
 
