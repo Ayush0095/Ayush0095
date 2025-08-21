@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on Dev-Tinder<br><br>🌱 I’m currently learning React, Node js and JavaScript<br>
 
-<br>👨‍💻 All of my projects are available at [https://github.com/vansh0singhal](https://github.com/vansh0singhal)<br><br>📝 I regularly solving problems on [https://leetcode.com/u/vansh_singhal007/](https://leetcode.com/u/vansh_singhal007/)<br><br>💬 Ask me about Javascript, React and C++<br><br>📫 How to reach me vanshsinghal101@gmail.com<br><br>📄 Know about my experiences [https://www.linkedin.com/in/vansh-singhal-523347237/](https://www.linkedin.com/in/vansh-singhal-523347237/)
+<br>👨‍💻 All of my projects are available at [https://github.com/Ayush0095](https://github.com/Ayush0095)<br><br>📝 I regularly solving problems on [https://leetcode.com/u/aayushsingh7668/](https://leetcode.com/u/aayushsingh7668/)<br><br>💬 Ask me about Javascript, React and C++<br><br>📫 How to reach me vanshsinghal101@gmail.com<br><br>📄 Know about my experiences [https://www.linkedin.com/in/ayush-s-149a74310/](https://www.linkedin.com/in/ayush-s-149a74310/)
 
 - ⚡ I Talk in </>
 
